@@ -5,6 +5,6 @@ https://tools.ietf.org/html/rfc2453
 
 It includes the improvements "Split Horizon" and "Triggered Updates".
  
-Triggered Updates sends full tables, not a table difference. 
+Triggered Updates sends full tables, not table difference. 
 
 There is not password.
